@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 333036115
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3520aeaf774293bfa5227a294e4f123
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 141a004dd8b42741c0507ade53bf8501
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d3520aeaf774293bfa5227a294e4f123
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c4d837a67c91774784f12adaf6256a6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/MiniGameEntry/EntryCube.prefab
+- Assets/Bundles/MiniGameEntry/PrimeTween.Runtime.dll.bytes
+- Assets/Bundles/MiniGameEntry/UniTask.dll.bytes
+- Assets/Bundles/MiniGameEntry/MiniGame.GameEntry.dll.bytes
+- Assets/Bundles/MiniGameEntry/YooAsset.dll.bytes
+Dependencies: []

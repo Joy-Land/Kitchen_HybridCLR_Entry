@@ -1,0 +1,19 @@
+<linker>
+	<assembly fullname="Main" preserve="all" />
+	<assembly fullname="UniTask" preserve="all"/>
+	<assembly fullname="YooAsset" preserve="all"/>
+	<assembly fullname="YooAsset.RuntimeExtension" preserve="all"/>
+	<assembly fullname="MiniGame.GameEntry" preserve="all" />
+	<assembly fullname="PrimeTween.Runtime" preserve="all" />
+
+	<assembly fullname="UnityEngine.CoreModule">
+		<type fullname="UnityEngine.CreateAssetMenuAttribute" preserve="all" />
+		<type fullname="UnityEngine.Debug" preserve="all" />
+		<type fullname="UnityEngine.MonoBehaviour" preserve="all" />
+		<type fullname="UnityEngine.SceneManagement.LoadSceneParameters" preserve="all"/>
+		<type fullname="UnityEngine.SceneManagement.SceneManager" preserve="all"/>
+		<type fullname="UnityEngine.Assertions.Assert" preserve="all"/>
+		<type fullname="UnityEngine.Assertions.Assert`1" preserve="all"/>
+	</assembly>
+	
+</linker>
